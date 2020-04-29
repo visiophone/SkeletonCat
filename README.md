@@ -6,3 +6,8 @@ Capturing in realtime the skeleton of a running cat from Eadweard Muybridge "Pla
 TraceSkeleton by Lingdong Huang (2020)\
 "A new algorithm for retrieving topological skeleton as a set of polylines from binary images."\
 https://github.com/LingDong-/skeleton-tracing
+\
+\
+![Image description](https://github.com/visiophone/SkeletonCat/blob/master/Plate_720_Cat_Galloping_low.jpg)\
+Plate 720 Cat galloping (Muybridge, 1887)
+
