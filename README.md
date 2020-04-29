@@ -1,5 +1,5 @@
 # SkeletonCat
-Some experiments with Skeleton Tracing by Lingdong Huang @LingDong- (2020).\
+Some experiments with Skeleton Tracing by Lingdong Huang (2020).\
 Capturing in realtime the skeleton of a running cat from Eadweard Muybridge "Plate 720 'Cat galloping" series (1887), and exploring abstract movements visualisations.
 
 
