@@ -12,4 +12,4 @@ https://github.com/LingDong-/skeleton-tracing
 Plate 720 Cat galloping (Muybridge, 1887)
 \
 \
-![Image description](https://github.com/visiophone/SkeletonCat/blob/master/Skeleton_cat.png)\
+![Image description](https://github.com/visiophone/SkeletonCat/blob/master/Skeleton_cat.png =500x)\
